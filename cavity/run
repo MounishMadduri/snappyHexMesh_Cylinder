@@ -1,0 +1,4 @@
+./Allclean
+blockMesh > blockMesh.log
+snappyHexMesh
+touch snappyCyl.foam
